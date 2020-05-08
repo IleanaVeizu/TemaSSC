@@ -1,0 +1,6 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.btn_exit{
+	-fx-background-image: url("/pictures/icon.jpg");
+	-fx-background-size: 51.2px 51.2px ;
+}
